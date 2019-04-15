@@ -1,5 +1,4 @@
-//  2019.4.15 gitTest
-// 222222   333   4444 55555
+//
 //  RollerView.swift
 //  test2
 //
